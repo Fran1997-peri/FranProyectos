@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mantenimiento - AG358VB",
+    "description": "",
+    "home_page_url": "https://fran1997-peri.github.io/FranProyectos",
+    "feed_url": "https://fran1997-peri.github.io/FranProyectos/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Francisco"
+    },
+    "items": [
+        {
+            "id": "https://fran1997-peri.github.io/FranProyectos/vista-lateral-ag358vb.html",
+            "url": "https://fran1997-peri.github.io/FranProyectos/vista-lateral-ag358vb.html",
+            "title": "Vista Lateral- AG358VB",
+            "image": "https://fran1997-peri.github.io/FranProyectos/media/posts/7/muhammad-shakir-YhP8dxBEu1Y-unsplash.jpg",
+            "author": {
+                "name": "Francisco"
+            },
+            "tags": [
+                   "Registro Fotografico"
+            ],
+            "date_published": "2026-07-02T20:27:09-03:00",
+            "date_modified": "2026-07-02T20:27:36-03:00"
+        },
+        {
+            "id": "https://fran1997-peri.github.io/FranProyectos/vista-frontal-ag358vb.html",
+            "url": "https://fran1997-peri.github.io/FranProyectos/vista-frontal-ag358vb.html",
+            "title": "Vista Frontal - AG358VB",
+            "content_html": "<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://fran1997-peri.github.io/FranProyectos/media/posts/6/maick-maciel-rQ080h8jQIk-unsplash-2.jpg",
+            "author": {
+                "name": "Francisco"
+            },
+            "tags": [
+                   "Registro Fotografico"
+            ],
+            "date_published": "2026-07-02T18:46:40-03:00",
+            "date_modified": "2026-07-02T20:26:47-03:00"
+        }
+    ]
+}

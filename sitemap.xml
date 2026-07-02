@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fran1997-peri.github.io/FranProyectos/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/</loc>
+</url>
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/contactos-de-emergencia.html</loc>
+<lastmod>2026-06-30T22:03:23-03:00</lastmod>
+</url>
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/historial-de-mantenimiento.html</loc>
+<lastmod>2026-06-30T22:04:19-03:00</lastmod>
+</url>
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/listado-de-activos.html</loc>
+<lastmod>2026-06-30T22:02:50-03:00</lastmod>
+</url>
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/registro-fotografico.html</loc>
+<lastmod>2026-07-02T20:34:24-03:00</lastmod>
+</url>
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/vista-frontal-ag358vb.html</loc>
+<lastmod>2026-07-02T20:26:47-03:00</lastmod>
+<image:image>
+<image:loc>https://fran1997-peri.github.io/FranProyectos/media/posts/6/maick-maciel-rQ080h8jQIk-unsplash-2.jpg</image:loc>
+<image:title><![CDATA[Julio 2026]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fran1997-peri.github.io/FranProyectos/vista-lateral-ag358vb.html</loc>
+<lastmod>2026-07-02T20:27:36-03:00</lastmod>
+<image:image>
+<image:loc>https://fran1997-peri.github.io/FranProyectos/media/posts/7/muhammad-shakir-YhP8dxBEu1Y-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
