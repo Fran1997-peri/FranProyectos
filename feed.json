@@ -9,5 +9,19 @@
         "name": "Francisco"
     },
     "items": [
+        {
+            "id": "https://fran1997-peri.github.io/FranProyectos/vista-frontal-ag358vb.html",
+            "url": "https://fran1997-peri.github.io/FranProyectos/vista-frontal-ag358vb.html",
+            "title": "Vista Frontal - AG358VB",
+            "image": "https://fran1997-peri.github.io/FranProyectos/media/posts/6/maick-maciel-rQ080h8jQIk-unsplash-2.jpg",
+            "author": {
+                "name": "Francisco"
+            },
+            "tags": [
+                   "Registro Fotografico"
+            ],
+            "date_published": "2026-07-02T18:46:40-03:00",
+            "date_modified": "2026-07-02T18:55:02-03:00"
+        }
     ]
 }
